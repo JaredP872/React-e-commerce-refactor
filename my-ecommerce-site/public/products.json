@@ -1,0 +1,74 @@
+[
+  {
+    "product-name": "Google Pixel 9 Pro",
+    "product-location": "https://lh3.googleusercontent.com/KaLIFYVg9298b8jv33H3pagRaAz4lCQxrQz-goMEsiTuCmUf2Ood9ktkzgjpotkMuRcAMimOV2RfN7vBZVmnInf5wcwUNsRZpw",
+    "product-price": "$719",
+    "product-description": "Pixel 9 Pro's elevated new design has a silky matte glass back, beautiful dual finish camera bar, and polished finish metal frame that feels as good as it looks!"
+  },
+  {
+    "product-name": "Apple iPhone 16 Pro Max",
+    "product-location": "https://media.wisemarket.com.pk/product/apple-iphone-16-pro-max-97.webp",
+    "product-price": "$1,294",
+    "product-description": "iPhone 16 Pro is splash, water, and dust resistant. It also has our latest-generation Ceramic Shield material that's two times tougher than any smartphone"
+  },
+  {
+    "product-name": "Samsung Galaxy S24 Ultra",
+    "product-location": "https://www.att.com/scmsassets/global/devices/phones/samsung/samsung-galaxy-s24-ultra/carousel/titanium-violet-1.png",
+    "product-price": "$240",
+    "product-description": "Galaxy S24 Ultra is IP68 water and dust resistant so you're ready for every adventure, puddles and all!"
+  },
+  {
+    "product-name": "Iphone 11 plus",
+    "product-location": "https://target.scene7.com/is/image/Target/GUEST_ed6c1df5-e85a-4cdc-a5ca-b3d14913e0f5?wid=488&hei=488&fmt=pjpeg",
+    "product-price": "$900",
+    "product-description": "Designed for Apple Intelligence. Discover the new iPhone 11 plus!"
+  },
+  {
+    "product-name": "Apple iPhone 12",
+    "product-location": "https://www.tradeinn.com/f/13809/138092046/apple-iphone-12-128gb-6.1.webp",
+    "product-price": "$763",
+    "product-description": "iPhone 12 and iPhone 12 mini. 5G capable. A14 Bionic. Super Retina XDR display. And Night mode on every camera."
+  },
+  {
+    "product-name": "OnePlus 12R",
+    "product-location": "https://i.ebayimg.com/images/g/YzAAAOSwf1BmtlaG/s-l400.jpg",
+    "product-price": "$927",
+    "product-description": "OnePlus 12R · Super-bright 120Hz ProXDR Display · 5500mAh battery. 80W SUPERVOOC · Snapdragon® 8 Gen 2. 16GB RAM · All-new Dual Cryo-velocity VC Cooling System."
+  },
+  {
+    "product-name": "Google Pixel 8a",
+    "product-location": "https://cdn.dxomark.com/wp-content/uploads/medias/post-168631/Google-pixel-8a_featured-image-packshot-review.jpg",
+    "product-price": "$430",
+    "product-description": "The best-in-class camera with Google AI helps you take photos and videos you won't believe you actually took!"
+  },
+  {
+    "product-name": "Apple iPhone 13",
+    "product-location": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-13-starlight-2023?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1679072987025",
+    "product-price": "$390",
+    "product-description": "The most advanced dual-camera system ever on iPhone. Lightning-fast A15 Bionic chip. A big leap in battery life. Durable design. Superfast 5G."
+  },
+  {
+    "product-name": "Samsung Galaxy Z Fold 6",
+    "product-location": "https://i5.walmartimages.com/seo/SAMSUNG-Galaxy-Z-Fold-6-SM-F956N-256GB-Korean-Unlocked-Sim-Free-Nano-eSIM-NAVY_6f730842-8bd5-411c-b511-bbe64fe07527.f3452b34e8d5fae7cad853ad27f43b01.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+    "product-price": "$670",
+    "product-description": "Galaxy Z Fold6 comes with a big screen, 6.3 Cover Screen and 7.6 Main Screen. Equipped with Galaxy AI"
+  },
+  {
+    "product-name": "Iphone 16 plus",
+    "product-location": "https://img.xfinitymobile.com/image/fetch/e_trim/w_300,h_420,c_fit,f_auto,q_auto,fl_lossy/https%3A%2F%2Fassets.xfinity.com%2Fassets%2Fdotcom%2Fprojects_2%2Fdxd-device_accessories-studio-requests_2024%2Fapple-npi-%2Fapple_iphone-16-plus%2FApple_iPhone-16-plus_Black_PRI.jpg",
+    "product-price": "$830",
+    "product-description": "Bring a whole new dimension to your photos and videos with it's realigned cameras, iPhone 16 lets you take magical photos and videos in a whole new way!"
+  },
+  {
+    "product-name": "iPhone 15",
+    "product-location": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MT233?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1693248327138",
+    "product-price": "$930",
+    "product-description": "Designed for Apple Intelligence. Discover the new iPhone 16 Pro, iPhone 16 Pro Max, iPhone 16, and iPhone 16 Plus."
+  },
+  {
+    "product-name": "iPhone 15 Plus",
+    "product-location": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MT213?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1693248030935",
+    "product-price": "$520",
+    "product-description": "The iPhone 15 is the first major redesign since the iPhone 12, featuring rounder edges and a slightly curved display, and back glass."
+  }
+]

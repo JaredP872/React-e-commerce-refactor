@@ -1,0 +1,85 @@
+/* Slider Container */
+.slider {
+  position: relative;
+  width: 100%;
+  max-width: 1000px; /* Adjust maximum width for the slider */
+  height: 500px; /* Set the height of the slider */
+  margin: auto;
+  overflow: hidden;
+  border-radius: 15px; /* Smooth rounded corners */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+}
+
+/* Slider Image */
+.slider img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Crop images proportionally */
+  transition: transform 0.5s ease; /* Smooth image transition */
+}
+
+/* Image Zoom on Hover */
+.slider img:hover {
+  transform: scale(1.05); /* Slight zoom-in effect on hover */
+}
+
+/* Navigation Buttons */
+.prev,
+.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+  color: white;
+  border: none;
+  padding: 15px;
+  cursor: pointer;
+  border-radius: 50%;
+  font-size: 24px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  z-index: 10;
+}
+
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8); /* Darker background on hover */
+  transform: scale(1.1); /* Slightly enlarge buttons on hover */
+}
+
+.prev {
+  left: 20px;
+}
+
+.next {
+  right: 20px;
+}
+
+/* Dots Container */
+.dots {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
+  z-index: 10;
+}
+
+/* Individual Dot */
+.dot {
+  width: 12px;
+  height: 12px;
+  background-color: rgba(255, 255, 255, 0.5); /* Light transparent dot */
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.dot.active {
+  background-color: white; /* Highlight active dot */
+  transform: scale(1.2); /* Enlarge active dot */
+}
+
+.dot:hover {
+  background-color: #ccc; /* Change color on hover */
+}

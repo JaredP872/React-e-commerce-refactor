@@ -1,0 +1,65 @@
+/* Hero Section */
+.hero-img {
+  background-image: url("https://img.freepik.com/premium-photo/assortment-modern-tech-devices-laid-out-blue-background_14117-738152.jpg?w=360");
+  height: 40vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #d3c2ff;
+  font-size: 2rem;
+}
+
+/* Cards Section */
+.gifts,
+.special-items {
+  display: grid;
+  gap: 10px;
+  padding: 20px;
+}
+
+.gifts {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.special-items {
+  grid-template-columns: repeat(2, 1fr);
+  border: 2px solid white;
+}
+
+.cards {
+  background-color: #d3c2ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Footer */
+.footer-1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  background-color: #e4d9ff;
+}
+
+.footer-2 {
+  text-align: center;
+  padding: 10px;
+  background-color: #e4d9ff;
+}
+
+.footer-1 i {
+  font-size: 1.5rem;
+  transition: color 0.3s ease;
+}
+
+.footer-1 i:hover {
+  color: #5b88d9;
+}

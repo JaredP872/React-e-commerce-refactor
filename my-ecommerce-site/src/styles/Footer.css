@@ -1,0 +1,36 @@
+/* Footer Wrapper */
+footer {
+  background-color: #e4d9ff; /* Restore the soft purple background */
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for separation */
+  margin-top: 40px;
+}
+
+/* Footer Section 1: Social Media Icons */
+.footer-1 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  padding: 20px;
+}
+
+.footer-1 i {
+  font-size: 1.8rem;
+  color: #4a4a4a; /* Neutral gray for default icon color */
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.footer-1 i:hover {
+  color: #5b88d9; /* Restore the blue-purple hover effect */
+  transform: scale(1.2); /* Slight zoom on hover */
+}
+
+/* Footer Section 2: Copyright Text */
+.footer-2 {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333; /* Dark gray text for readability */
+  padding: 15px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1); /* Subtle border */
+}
