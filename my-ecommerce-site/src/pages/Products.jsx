@@ -5,7 +5,7 @@ import { useEffect, useState, useCallback } from "react";
 import Card from "../components/Card";
 
 // Import the CSS file for the Products page.
-import "../styles/products.css";
+import "../styles/Products.css";
 
 // Create a functional component named Products.
 const Products = () => {
