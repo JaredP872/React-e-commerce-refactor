@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactecommercerefact-dev-4e287-authRole",
+      "UnauthRoleArn": "arn:aws:iam::418272787104:role/amplify-reactecommercerefact-dev-4e287-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::418272787104:role/amplify-reactecommercerefact-dev-4e287-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactecommercerefact-dev-4e287-deployment",
+      "UnauthRoleName": "amplify-reactecommercerefact-dev-4e287-unauthRole",
+      "StackName": "amplify-reactecommercerefact-dev-4e287",
+      "StackId": "arn:aws:cloudformation:us-east-1:418272787104:stack/amplify-reactecommercerefact-dev-4e287/91fc0c70-e500-11ef-a760-0e1173392d2d",
+      "AmplifyAppId": "d4vj3no0r7r1a"
+    }
+  }
+}
